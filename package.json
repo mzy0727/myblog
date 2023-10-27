@@ -14,7 +14,7 @@
   "dependencies": {
     "express": "^3.21.2",
     "hexo": "^6.3.0",
-    "hexo-bridge": "^1.2.0",
+    "hexo-bridge": "^2.0.2",
     "hexo-deployer-git": "^4.0.0",
     "hexo-generator-archive": "^2.0.0",
     "hexo-generator-category": "^2.0.0",
